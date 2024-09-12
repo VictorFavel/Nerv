@@ -1,0 +1,13 @@
+body{
+    background-color: purple;
+}
+
+. contato.html{
+    background-color: purple;
+}
+button{
+    margin: 40px;
+    background-color: green;
+    border: 05px dashed rgb(52, 138, 52); /* */
+
+}
